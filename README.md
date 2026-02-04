@@ -2,6 +2,26 @@
 
 Comprehensive React error handling library with hooks API, retry mechanisms, error reporting, and React 19 support.
 
+[![NPM Package](https://img.shields.io/npm/v/@react-error-utils/core.svg)](https://www.npmjs.com/package/@react-error-utils/core)
+[![NPM Downloads](https://img.shields.io/npm/dw/@react-error-utils/core)](https://www.npmjs.com/package/@react-error-utils/core)
+[![License](https://img.shields.io/npm/l/@react-error-utils/hooks.svg)](LICENSE)
+
+[![NPM Package](https://img.shields.io/npm/v/@react-error-utils/hooks.svg)](https://www.npmjs.com/package/@react-error-utils/hooks)
+[![NPM Downloads](https://img.shields.io/npm/dw/@react-error-utils/hooks)](https://www.npmjs.com/package/@react-error-utils/hooks)
+[![License](https://img.shields.io/npm/l/@react-error-utils/core.svg)](LICENSE)
+
+[![NPM Package](https://img.shields.io/npm/v/@react-error-utils/react19.svg)](https://www.npmjs.com/package/@react-error-utils/react19)
+[![NPM Downloads](https://img.shields.io/npm/dw/@react-error-utils/react19)](https://www.npmjs.com/package/@react-error-utils/react19)
+[![License](https://img.shields.io/npm/l/@react-error-utils/react19.svg)](LICENSE)
+
+[![NPM Package](https://img.shields.io/npm/v/@react-error-utils/reporting.svg)](https://www.npmjs.com/package/@react-error-utils/reporting)
+[![NPM Downloads](https://img.shields.io/npm/dw/@react-error-utils/reporting)](https://www.npmjs.com/package/@react-error-utils/reporting)
+[![License](https://img.shields.io/npm/l/@react-error-utils/reporting.svg)](LICENSE)
+
+[![NPM Package](https://img.shields.io/npm/v/@react-error-utils/testing.svg)](https://www.npmjs.com/package/@react-error-utils/testing)
+[![NPM Downloads](https://img.shields.io/npm/dw/@react-error-utils/testing)](https://www.npmjs.com/package/@react-error-utils/testing)
+[![License](https://img.shields.io/npm/l/@react-error-utils/testing.svg)](LICENSE)
+
 ## Features
 
 - **Hooks-First API** - Modern hooks-based error handling for function components
