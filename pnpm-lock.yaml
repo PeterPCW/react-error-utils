@@ -89,7 +89,7 @@ importers:
   react19:
     dependencies:
       '@react-error-utils/core':
-        specifier: workspace:>=0.0.1
+        specifier: workspace:>=0.1.0
         version: link:../core
       react:
         specifier: '>=19.0.0'
@@ -166,7 +166,7 @@ importers:
   testing:
     dependencies:
       '@react-error-utils/core':
-        specifier: workspace:>=0.0.1
+        specifier: workspace:>=0.1.0
         version: link:../core
       react:
         specifier: '>=18.0.0'
