@@ -1,0 +1,22 @@
+{
+  "name": "@react-error-utils/monorepo",
+  "version": "0.0.1",
+  "private": true,
+  "description": "React Error Utils - Comprehensive error handling for React",
+  "scripts": {
+    "build": "pnpm -r run build",
+    "test": "pnpm -r run test",
+    "lint": "pnpm -r run lint"
+  },
+  "keywords": [
+    "react",
+    "error",
+    "error-boundary",
+    "error-handling",
+    "hooks"
+  ],
+  "author": "Peter W.",
+  "license": "MIT",
+  "homepage": "https://github.com/PeterPCW/react-error-utils",
+  "packageManager": "pnpm@10.28.2+sha512.41872f037ad22f7348e3b1debbaf7e867cfd448f2726d9cf74c08f19507c31d2c8e7a11525b983febc2df640b5438dee6023ebb1f84ed43cc2d654d2bc326264"
+}

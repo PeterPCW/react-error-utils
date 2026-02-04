@@ -1,0 +1,6 @@
+packages:
+  - "core"
+  - "hooks"
+  - "reporting"
+  - "testing"
+  - "react19"

@@ -1,0 +1,45 @@
+{
+  "name": "@react-error-utils/hooks",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "React error handling hooks - useErrorHandler, useRetry",
+  "main": "dist/index.cjs.js",
+  "module": "dist/index.es.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.es.js",
+      "require": "./dist/index.cjs.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "scripts": {
+    "build": "vite build",
+    "test": "vitest run",
+    "test:coverage": "vitest --coverage"
+  },
+  "peerDependencies": {
+    "react": ">=18.0.0"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/react": "^16.3.2",
+    "@testing-library/user-event": "^14.6.1",
+    "@types/react": "^19.0.0",
+    "@vitejs/plugin-react": "^5.1.2",
+    "jsdom": "^27.4.0",
+    "typescript": "^5.0.0",
+    "vite": "^5.0.0",
+    "vite-plugin-dts": "^4.5.4",
+    "vitest": "^1.0.0"
+  },
+  "keywords": [
+    "react",
+    "error",
+    "hooks",
+    "error-handler",
+    "retry"
+  ],
+  "author": "Peter W.",
+  "license": "MIT"
+}
