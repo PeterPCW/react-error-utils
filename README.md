@@ -2,10 +2,6 @@
 
 Comprehensive React error handling library with hooks API, retry mechanisms, error reporting, and React 19 support.
 
-[![NPM Package](https://img.shields.io/npm/v/react-error-utils.svg)](https://www.npmjs.com/package/react-error-utils)
-[![NPM Downloads](https://img.shields.io/npm/dm/react-error-utils.svg)](https://www.npmjs.com/package/react-error-utils)
-[![License](https://img.shields.io/npm/l/react-error-utils.svg)](LICENSE)
-
 ## Features
 
 - **Hooks-First API** - Modern hooks-based error handling for function components

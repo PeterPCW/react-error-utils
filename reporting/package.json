@@ -1,6 +1,6 @@
 {
   "name": "@react-error-utils/reporting",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "type": "module",
   "description": "Error reporting utilities for @react-error-utils (Sentry, Bugsnag)",
   "main": "dist/index.cjs.js",
@@ -21,7 +21,7 @@
     "typecheck": "tsc --noEmit"
   },
   "peerDependencies": {
-    "@react-error-utils/core": ">=0.0.1",
+    "@react-error-utils/core": ">=0.1.0",
     "react": ">=18.0.0"
   },
   "devDependencies": {
@@ -49,5 +49,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/PeterPCW/react-error-utils"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
